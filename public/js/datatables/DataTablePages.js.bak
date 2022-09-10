@@ -1,0 +1,4 @@
+// home page
+$(document).ready(function() {
+  $('#dataTable').DataTable();
+});
